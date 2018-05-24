@@ -13,3 +13,4 @@ bin/
 *.sublime-project
 *.txt
 .ipynb_checkpoints
+*.html
